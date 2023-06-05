@@ -1,5 +1,5 @@
 👋 Hi, I’m **Bowofade Oyerinde**, Software Engineer with over 4years of working experience. My tech stack includes `HTML, CSS(TailwindCss), JAVASCRIPT[ALPINEJS, VUEJS(NuxtJs)], PHP(LARAVEL), MySQL, system design, architecture and Database Design`
-I have also have a small saas company under development.
+I have also have a small saas company under development .
 
 - 👀 I’m interested in web technology, mobile & DSA
 - 🌱 I’m currently learning vuejs to fine-tune my frontend skills
