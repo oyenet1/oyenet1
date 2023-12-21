@@ -11,6 +11,8 @@ oyenet1/oyenet1 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![wakatime](https://wakatime.com/badge/user/8e1275cb-8415-46a0-a3c4-6a021db30f8f.svg)](https://wakatime.com/@8e1275cb-8415-46a0-a3c4-6a021db30f8f)
+
 - **Languages:** 
   ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
