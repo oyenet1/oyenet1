@@ -4,7 +4,7 @@ I have also have a small saas company under development .
 - 👀 I’m interested in web technology, mobile & DSA
 - 🌱 I’m currently learning vuejs to fine-tune my frontend skills
 - 💞️ I’m looking to collaborate on any SAAS projects.
-- 📫 My personal website is at [https://bowofade.com](https://bowofade.biz)
+- 📫 My personal website is at [https://bowofade.com](https://bowofade.com)
 
 <!---
 oyenet1/oyenet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-ffca28?style=flat-square&logo=javascript&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-7952b3?style=flat-square&logo=php&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479a1?style=flat-square&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 - **Frameworks & Libraries:**
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)
@@ -38,8 +40,8 @@ You can click the Preview link to take a look at your changes.
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
 - **Others:**
-  ![WebSocket](https://img.shields.io/badge/-WebSocket-818181?style=flat-square)
- <!--- ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)--->
+  <!--- ![WebSocket](https://img.shields.io/badge/-WebSocket-818181?style=flat-square)--->
+ ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)--->
 
 
 
