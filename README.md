@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 #### Stat
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyenet1&layout=donut&hide_progress=true&langs_count=10&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyenet1&layout=compact&langs_count=10&card_width=400" />
 </a>
 
 <p></p>
