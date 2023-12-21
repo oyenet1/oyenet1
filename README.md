@@ -48,10 +48,10 @@ You can click the Preview link to take a look at your changes.
 #### Wakatime Stats
 [![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyenet1)](https://github.com/oyenet1/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oyenet1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyenet1&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
