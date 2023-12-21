@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
   [![wakatime](https://wakatime.com/badge/user/8e1275cb-8415-46a0-a3c4-6a021db30f8f.svg)](https://wakatime.com/@8e1275cb-8415-46a0-a3c4-6a021db30f8f)
-[![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Networker@layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Networker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Others:**
   <!--- ![WebSocket](https://img.shields.io/badge/-WebSocket-818181?style=flat-square)--->
