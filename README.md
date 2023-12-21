@@ -11,9 +11,6 @@ oyenet1/oyenet1 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![wakatime](https://wakatime.com/badge/user/8e1275cb-8415-46a0-a3c4-6a021db30f8f.svg)](https://wakatime.com/@8e1275cb-8415-46a0-a3c4-6a021db30f8f)
-[![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Networker)](https://github.com/anuraghazra/github-readme-stats)
-
 - **Languages:** 
   ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3&logoColor=white)
@@ -43,6 +40,9 @@ You can click the Preview link to take a look at your changes.
   ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
+  [![wakatime](https://wakatime.com/badge/user/8e1275cb-8415-46a0-a3c4-6a021db30f8f.svg)](https://wakatime.com/@8e1275cb-8415-46a0-a3c4-6a021db30f8f)
+[![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Networker@layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Others:**
   <!--- ![WebSocket](https://img.shields.io/badge/-WebSocket-818181?style=flat-square)--->
