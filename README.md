@@ -49,7 +49,8 @@ You can click the Preview link to take a look at your changes.
  ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)
 
 - **Repos:**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=books_crud)](https://github.com/oyenet1/books_crud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=books_crud@show_owner=oyenet1)](https://github.com/oyenet1/books_crud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=filament@show_owner=oyenet1)](https://github.com/oyenet1/filament)
 
 #### Stat
 </a>
