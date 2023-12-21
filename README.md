@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
  ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)
 
 - **Repos:**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=pofez)](https://github.com/oyenet1/pofez)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=books_crud)](https://github.com/oyenet1/books_crud)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oyenet1" />
