@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
  ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)
 
 #### Wakatime Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyenet1)](https://github.com/oyenet1/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oyenet1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
