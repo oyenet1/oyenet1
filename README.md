@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
   ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
   ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8bc0d0?style=flat-square&logo=alpine.js&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
+    ![Livewire](https://img.shields.io/badge/-Livewire-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
   ![React Native](https://img.shields.io/badge/-React_Native-61dafb?style=flat-square&logo=react&logoColor=white)
 <!---  ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)--->
 
