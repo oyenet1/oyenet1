@@ -48,13 +48,14 @@ You can click the Preview link to take a look at your changes.
 - **Repos:**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=books_crud)](https://github.com/oyenet1/books_crud)
 
+#### Stat
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oyenet1" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyenet1&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyenet1&layout=donut&langs_count=8&card_width=320" />
 </a>
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyenet1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oyenet1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
