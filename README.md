@@ -55,9 +55,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyenet1&layout=donut&langs_count=8&card_width=320" />
 </a>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyenet1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Networker&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+<p></p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Networker)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oyenet1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=oyenet1&count_private=true&theme=radical&showicons=true)]()
