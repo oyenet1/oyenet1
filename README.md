@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 - **Others:**
   <!--- ![WebSocket](https://img.shields.io/badge/-WebSocket-818181?style=flat-square)--->
- ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)--->
+ ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)
 
 
 
