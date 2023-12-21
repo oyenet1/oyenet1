@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![wakatime](https://wakatime.com/badge/user/8e1275cb-8415-46a0-a3c4-6a021db30f8f.svg)](https://wakatime.com/@8e1275cb-8415-46a0-a3c4-6a021db30f8f)
+[![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Networker)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Languages:** 
   ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=white)
@@ -59,9 +60,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <p></p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Networker)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oyenet1&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=oyenet1&count_private=true&theme=radical&showicons=true)]()
