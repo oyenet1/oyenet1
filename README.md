@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 
 **Repos:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=books_crud&show_owner=oyenet1)](https://github.com/oyenet1/books_crud)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=filament&show_owner=oyenet1)](https://github.com/oyenet1/filament)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=books_crud&show_owner=true&show_icons=true)](https://github.com/oyenet1/books_crud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=filament&show_owner=true&show_icons=true)](https://github.com/oyenet1/filament)
 
 #### Stat
 </a>
