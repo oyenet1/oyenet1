@@ -48,10 +48,7 @@ You can click the Preview link to take a look at your changes.
   <!--- ![WebSocket](https://img.shields.io/badge/-WebSocket-818181?style=flat-square)--->
  ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)
 
-**Repos:**
-<a href="https://github.com/oyenet1/books_crud">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=books_crud&show_owner=true&show_icons=true)](https://github.com/oyenet1/books_crud)
-</a>
 <a href="https://github.com/oyenet1/filament">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=filament&show_owner=true&show_icons=true)](https://github.com/oyenet1/filament)
 </a>
