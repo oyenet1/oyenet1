@@ -45,8 +45,9 @@ You can click the Preview link to take a look at your changes.
   <!--- ![WebSocket](https://img.shields.io/badge/-WebSocket-818181?style=flat-square)--->
  ![APIs](https://img.shields.io/badge/-APIs-009688?style=flat-square)
 
-#### Wakatime Stats
-[![Bowofade's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oyenet1)](https://github.com/oyenet1/github-readme-stats)
+- **Repos:**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyenet1&repo=pofez)](https://github.com/oyenet1/pofez)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oyenet1" />
 </a>
