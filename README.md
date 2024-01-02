@@ -5,7 +5,7 @@ I have also have a small saas company under development .
 - 🌱 I’m currently learning vuejs to fine-tune my frontend skills
 - 💞️ I’m looking to collaborate on any SAAS projects.
 - 📫 My personal website is at [https://bowofade.com](https://bowofade.com)
-
+<a href="https://app.daily.dev/fade_networker"><img src="https://api.daily.dev/devcards/f9675dad119f458592d1af19e16efc97.png?r=mw4" width="400" alt="Bowofade Oyerinde's Dev Card"/></a>
 <!---
 oyenet1/oyenet1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
